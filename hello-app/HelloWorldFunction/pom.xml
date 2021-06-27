@@ -5,12 +5,12 @@
     <artifactId>HelloWorld</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
-    <name>A sample Hello World created for SAM CLI.</name>
+    <name>hello-client1</name>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 
-        <sonar.projectKey>eliashel_hello-product</sonar.projectKey>
+        <sonar.projectKey>eliashel_hello-client1</sonar.projectKey>
         <sonar.organization>eliashel</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
