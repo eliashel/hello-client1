@@ -1,2 +1,2 @@
-# hello-client1
-Versión de cliente 1 de hello-project
+# hello-product
+Demo para el paso de features a versiones de producto a clientes
